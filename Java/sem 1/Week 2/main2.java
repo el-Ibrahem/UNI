@@ -5,4 +5,4 @@ public class main2 {
 }
 // First Error : after static void is missing
 // second Error : there  is nout ; at the end of line 3
-// third error : you didnt close the } of public static main
+// third error : you didnt close the } of public static ma
